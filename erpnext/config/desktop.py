@@ -74,8 +74,9 @@ def get_data():
 			"module_name": "Accounts",
 			"color": "#3498db",
 			"icon": "octicon octicon-repo",
-			"type": "module",
-			"hidden": 1
+			"type": "module" ,
+			"label": _("Accounts")
+			
 		},
 		{
 			"module_name": "Stock",
